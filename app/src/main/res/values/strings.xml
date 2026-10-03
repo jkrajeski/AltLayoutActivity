@@ -5,4 +5,9 @@
     <string name="direct_reports_label">Direct Reports</string>
     <string name="extension_label">Extension</string>
     <string name="supervisor_label">Supervisor</string>
+    <string name="direct_reports">Direct Reports</string>
+    <string name="department">Department</string>
+    <string name="extension">Extension</string>
+    <string name="email">Email</string>
+    <string name="supervisor">Supervisor</string>
 </resources>
